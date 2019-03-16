@@ -43,21 +43,7 @@ You will be able to access them there for the foreseeable future.
 
 When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red postIt_ if you have issues.
 
-[Recording Session 1](https://www.youtube.com/watch?v=MCJD5iJjr7Y&list=PL3izGL6oi0S9fqvtp6iqqRNE5m9zw1aaN)
 
-[Recording Session 2](https://www.youtube.com/watch?v=3I33V2qYsV8&list=PL3izGL6oi0S9fqvtp6iqqRNE5m9zw1aaN&index=3)
-
-[Recording Session 3](https://www.youtube.com/watch?v=Lasit52UVIM&index=3&list=PL3izGL6oi0S9fqvtp6iqqRNE5m9zw1aaN)
-
-[Recording Session 4](https://www.youtube.com/watch?v=g55rJsManOY&list=PL3izGL6oi0S9fqvtp6iqqRNE5m9zw1aaN&index=4)
-
-[Recording Session 5](https://www.youtube.com/watch?v=B2ePWsOD3cQ&index=5&list=PL3izGL6oi0S9fqvtp6iqqRNE5m9zw1aaN)
-
-[Recording Session 6](https://www.youtube.com/watch?v=KImeKJcniRQ&index=6&list=PL3izGL6oi0S9fqvtp6iqqRNE5m9zw1aaN)
-
-[Recording Session 7](https://www.youtube.com/watch?v=U_x52jQB8TI&index=7&list=PL3izGL6oi0S9fqvtp6iqqRNE5m9zw1aaN)
-
-[Recording Session 8](https://www.youtube.com/watch?v=DmrqPkLd-f4&index=8&list=PL3izGL6oi0S9fqvtp6iqqRNE5m9zw1aaN)
 
 ## Integrated Assignment
 
