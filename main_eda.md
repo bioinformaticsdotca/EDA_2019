@@ -1,9 +1,9 @@
 ---
 layout: workshop_main_2day
-permalink: /eda_2018
-title: EDA
+permalink: /eda_2019
+title: EDA 2019
 header1: Workshop Pages for Students
-header2: Exploratory Analysis of Biological Data using R 2018
+header2: Exploratory Analysis of Biological Data using R 2019
 image: /site_images/CBW_R_icon.jpg
 keywords: R and its analysis tools, plot and visualize data, use R and its analysis tools
 description: Course covered for this workshop are broadly relevant for many areas of modern, quantitative biology such as flow cytometry, expression profile analysis, function prediction and more. 
@@ -15,16 +15,15 @@ length: 2 days
 
 Welcome to Exploratory Analysis of Biological Data using R.  
 
-The pre-work inlcuding programs to install can be found [here](https://bioinformaticsdotca.github.io/eda_2018_prework)
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/eda_2019_schedule). 
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/eda_2018_schedule). 
+The pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/eda_2019_prework)
 
 ***
 
 # Class Photo
  
-<img src="https://github.com/bioinformaticsdotca/EDA_2018/blob/master/CBW-May16-2018.jpg?raw=true" alt="Class Photo" width="750" />
-
+Coming soon here.
 
 ***
 
