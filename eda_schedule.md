@@ -1,7 +1,7 @@
 ---
 layout: tutorial_page
 permalink: /eda_2019_schedule
-title: EDA 2019
+title: EDA 2019 Schedule
 header1: Workshop Pages for Students
 header2: Exploratory Analysis of Biological Data using R 2019
 image: /site_images/CBW_R_icon.jpg
