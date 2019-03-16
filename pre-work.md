@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /eda_2018_prework
-title: EDA PreWork
+permalink: /eda_2019_prework
+title: EDA Pre-Work
 header1: Workshop Pages for Students
-header2: Exploratory Analysis of Biological Data using R 2018 Pre-Work
+header2: Exploratory Analysis of Biological Data using R 2019 Pre-Work
 image: /site_images/CBW_R_icon.jpg
-home: https://bioinformaticsdotca.github.io/eda_2018
+home: https://bioinformaticsdotca.github.io/eda_2019
 ---
 
 ## Knowledge Preparation
