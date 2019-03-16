@@ -17,7 +17,9 @@ Welcome to Exploratory Analysis of Biological Data using R.
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/eda_2019_schedule). 
 
-The pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/eda_2019_prework)
+The pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/eda_2019_prework).
+
+The full course notes are available as a [single PDF here]().  
 
 ***
 
