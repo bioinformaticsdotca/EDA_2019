@@ -17,7 +17,7 @@ length: 2 days
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/eda_2019_schedule). 
 
-Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1gO9tC5VbLg6PfBGofXd4B-kcea5iVswH/view?usp=sharing)
+Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1yeo5F7jY5ue3EL1oYFGkwSb8Tgdph7Is/view?usp=sharing)
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
