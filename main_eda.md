@@ -13,11 +13,15 @@ length: 2 days
 
 # Welcome <a id="welcome"></a>
 
-Welcome to Exploratory Analysis of Biological Data using R.  
+[Welcome](https://drive.google.com/a/bioinformatics.ca/file/d/1VHSOjZT9CE8dV2RvrDvVu2YzIAo1WYrH/view?usp=sharing) to Exploratory Analysis of Biological Data using R.  
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/eda_2019_schedule). 
 
-The pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/eda_2019_prework). 
+Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1gO9tC5VbLg6PfBGofXd4B-kcea5iVswH/view?usp=sharing)
+
+# Pre-Workshop Materials <a id="preworkshop"></a>
+
+Pre-work including programs to install and practice exercises can be found [here](https://bioinformaticsdotca.github.io/eda_2019_prework). 
 
 ***
 
