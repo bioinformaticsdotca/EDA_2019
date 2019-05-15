@@ -26,8 +26,8 @@ Pre-work including programs to install and practice exercises can be found [here
 ***
 
 # Class Photo
- 
-Coming soon here.
+
+<img src="https://github.com/bioinformaticsdotca/EDA_2019/EDA2019_ClassPhoto.jpg?raw=true" alt="Class Photo" width="750" />
 
 ***
 
