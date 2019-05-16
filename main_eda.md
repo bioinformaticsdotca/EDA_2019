@@ -57,7 +57,7 @@ The script we will be working from is [here](https://raw.githubusercontent.com/b
 The answer key for the integrated assignment is [here](https://github.com/bioinformaticsdotca/EDA_2019/blob/master/EDA-integrated-assg-PCA-master.R).
 
 
-# Day 2 <a id="day 2"></a>
+# Day 2 <a id="day2"></a>
 
 [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1jdvOXoxn8NBgzdQxsj78RorXgMLpWTPJ/view?usp=sharing)
   
