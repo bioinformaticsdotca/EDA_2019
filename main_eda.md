@@ -56,6 +56,14 @@ The script we will be working from is [here](https://raw.githubusercontent.com/b
   
 The answer key for the integrated assignment is [here](https://github.com/bioinformaticsdotca/EDA_2019/blob/master/EDA-integrated-assg-PCA-master.R).
 
+
+# Day 2 <a id="day 2"></a>
+
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1jdvOXoxn8NBgzdQxsj78RorXgMLpWTPJ/view?usp=sharing)
+  
+[Lab R scripts]()  
+[Answer Key]()  
+
 ## Survey
 
 Thank you for attending this workshop. Please help us improve the workshop by providing your feedback on our [survey](https://forms.gle/8mszjPvJX8z8YgXM9).
