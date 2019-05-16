@@ -61,8 +61,8 @@ The answer key for the integrated assignment is [here](https://github.com/bioinf
 
 [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1jdvOXoxn8NBgzdQxsj78RorXgMLpWTPJ/view?usp=sharing)
   
-[Lab R scripts]()  
-[Answer Key]()  
+[Lab R scripts](https://github.com/bioinformaticsdotca/EDA_2019/blob/master/PCA-tSNE-UMAP-RF-EDA2019-script.R)  
+[Answer Key](https://github.com/bioinformaticsdotca/EDA_2019/blob/master/PCA-tSNE-UMAP-RF-EDA2019-master.R)  
 
 ## Survey
 
