@@ -54,7 +54,7 @@ When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red p
 The data is [here](https://drive.google.com/a/bioinformatics.ca/file/d/1qdexcZkRv8TFngcZojg3E34UvSApHFps/view?usp=sharing).  
 The script we will be working from is [here](https://raw.githubusercontent.com/bioinformaticsdotca/EDA_2019/master/EDA-integrated-assg-PCA-script.R).  
   
-The answer key for the integrated assignment is [here](https://github.com/bioinformaticsdotca/EDA_2019/EDA-integrated-assg-PCA-master.R).
+The answer key for the integrated assignment is [here](https://github.com/bioinformaticsdotca/EDA_2019/blob/master/EDA-integrated-assg-PCA-master.R).
 
 ## Survey
 
